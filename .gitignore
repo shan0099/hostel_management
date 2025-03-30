@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.log
+/storage/oauth-private.key
+/storage/oauth-public.key
+/database/*.sqlite
+/database/*.sqlite3
+/bootstrap/cache
